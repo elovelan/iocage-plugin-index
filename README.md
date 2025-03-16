@@ -1,18 +1,8 @@
+> ⚠️ It's unlikely I'll take over maintaining this, but happy to contribute if someone else does!
 
-# NOTE: This repository for Plugins is **Deprecated**. 
-# Users are encouraged to upgrade to TrueNAS 24.10 or later, which uses the [Apps repository](https://github.com/truenas/apps) for 3rd party software. 
-<hr />
+# iocage-plugins
 
-<br />
-<br />
-<br />
-<br />
-
-
-
-
-# iocage-ix-plugins
-Community created plugins for the retired [TrueNAS CORE](https://www.truenas.com/) and [FreeBSD](http://www.freebsd.org)
+Community created plugins for [IX's abandoned version of iocage](https://github.com/truenas/iocage/), with a goal to test with/migrate to [FreeBSD's maintained version](https://github.com/freebsd/iocage).
 
 # Creating Plugins
 Add a plugin JSON file to this repo along with an appropriate icon in the [icons directory](icons/).
@@ -20,7 +10,7 @@ Add a plugin JSON file to this repo along with an appropriate icon in the [icons
 After creating the JSON file and adding an icon, add the plugin to the [INDEX file](INDEX).
 If the plugin is approved, it appears in the list of iocage plugins.
 
-For more detailed information on creating a plugin, see [Create a Plugin](https://www.ixsystems.com/documentation/freenas/11.2-U6/plugins.html#create-a-plugin).
+For more detailed information on creating a plugin, see [IX's Create a Plugin page](https://www.ixsystems.com/documentation/freenas/11.3-U5/plugins.html#create-a-plugin).
 
 # Installing Plugins
 
@@ -35,7 +25,7 @@ For example, `ip4_addr="em0|10.238.4.196"`.
 ## Pulling from Internet
 Install a plugin from the internet:
 <pre>
-iocage fetch -P jenkins -g https://github.com/ix-plugin-hub/iocage-plugin-index ip4_addr="<i>interface</i>|<i>IPaddress</i>"
+iocage fetch -P jenkins -g https://github.com/elovelan/iocage-plugin-index ip4_addr="<i>interface</i>|<i>IPaddress</i>"
 </pre>
 where *interface* is the name of the active network interface and *IP address* is the desired IP address for the plugin.
 For example, `ip4_addr="igb0|192.168.0.91"`
