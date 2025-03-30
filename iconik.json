@@ -1,0 +1,22 @@
+{
+    "name": "iconik-storage-gateway",
+    "release": "12.4-RELEASE",
+    "artifact": "https://github.com/freenas/iocage-plugin-iconik-storage-gateway.git",
+    "properties": {
+        "nat": 1,
+        "nat_forwards": "tcp(8000:8000)"
+    },
+    "pkgs": [
+        "iconik_storage_gateway"
+    ],
+    "packagesite": "http://cdn1.tn.ixsystems.com/download.truenas.com/plugins/iconik/stable/12.4-RELEASE",
+    "fingerprints": {
+        "iocage-plugins": [
+            {
+                "function": "sha256",
+                "fingerprint": "226efd3a126fb86e71d60a37353d17f57af816d1c7ecad0623c21f0bf73eb0c7"
+            }
+        ]
+    },
+    "revision": "0"
+}
