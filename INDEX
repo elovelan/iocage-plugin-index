@@ -2,7 +2,7 @@
     "adguardhome": {
         "MANIFEST": "adguardhome.json",
         "name": "AdGuardHome",
-        "icon": "https://icons.freenas.org/community-icons/adguardhome.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/adguardhome.png",
         "description": "AdGuard Home is a network-wide software for blocking ads & tracking.",
         "official": false,
         "primary_pkg": "adguardhome",
@@ -12,7 +12,7 @@
     "archiwarep5": {
         "MANIFEST": "archiwarep5.json",
         "name": "Archiware P5",
-        "icon": "https://icons.freenas.org/community-icons/archiwarep5.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/archiwarep5.png",
         "description": "Archiwares P5 Software Suite is a platform-agnostic data management software for archiving, backup and cloning. The browser-based interface comprises four modules, which use different methods to secure and restore data: P5 Synchronize: Clones data to create a failover solution for time critical setups, P5 Backup: Produces security copies of files for a quick restore, Backup2Go: Backs up desktop and laptop data to disk and P5 Archive: Migrates data offline for long-term storage.",
         "official": false,
         "primary_pkg": "archiwarep5",
@@ -22,7 +22,7 @@
     "asigra": {
         "MANIFEST": "asigra.json",
         "name": "Asigra Backup",
-        "icon": "https://www.trueos.org/iocage-icons/asigra.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/asigra.png",
         "description": "Allows administrators to back up data from network-connected computers and mobile devices. Leverages standard API calls from a single on-site Asigra service (DS-Client) to reach into these devices and access the data.",
         "official": true,
         "primary_pkg": "dssystem",
@@ -33,7 +33,7 @@
     "backuppc": {
         "MANIFEST": "backuppc.json",
         "name": "BackupPC",
-        "icon": "https://icons.freenas.org/community-icons/backuppc.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/backuppc.png",
         "description": "Enterprise-grade system for backing up Linux, Windows, and MacOSX computers to a server.",
         "official": false,
         "primary_pkg": "backuppc4",
@@ -43,7 +43,7 @@
     "bazarr": {
         "MANIFEST": "bazarr.json",
         "description": "Bazarr is a companion application to Sonarr and Radarr that manages and downloads subtitles.",
-        "icon": "https://icons.freenas.org/community-icons/bazarr.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/bazarr.png",
         "name": "Bazarr",
         "official": false,
         "primary_pkg": null
@@ -51,7 +51,7 @@
     "bind": {
         "MANIFEST": "bind.json",
         "description": "BIND DNS server",
-        "icon": "https://icons.freenas.org/community-icons/bind.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/bind.png",
         "name": "Bind DNS",
         "official": false,
         "primary_pkg": "bind916"
@@ -59,7 +59,7 @@
     "calibre-web": {
         "MANIFEST": "calibre-web.json",
         "description": "Web app for browsing, reading and downloading eBooks stored in a Calibre database",
-        "icon": "https://icons.freenas.org/community-icons/calibre-web.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/calibre-web.png",
         "name": "Calibre-Web",
         "official": false,
         "primary_pkg": null
@@ -67,7 +67,7 @@
     "channels-dvr": {
         "MANIFEST": "channels-dvr.json",
         "description": "DVR server for the Channels apps. Makes digital recordings of broadcast television using HDHomeRun network tuners. (Requires Subscription)",
-        "icon": "https://icons.freenas.org/community-icons/channels-dvr.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/channels-dvr.png",
         "name": "Channels DVR",
         "official": false,
         "primary_pkg": ""
@@ -75,7 +75,7 @@
     "chia": {
         "MANIFEST": "chia.json",
         "description": "A new blockchain and smart transaction platform that is easier to use, more efficient, and secure.",
-        "icon": "https://icons.freenas.org/community-icons/chia.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/chia.png",
         "name": "Chia",
         "official": false,
         "primary_pkg": ""
@@ -83,7 +83,7 @@
     "clamav": {
         "MANIFEST": "clamav.json",
         "name": "ClamAV",
-        "icon": "https://icons.freenas.org/community-icons/clamav.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/clamav.png",
         "description": "Open source antivirus engine for detecting trojans, viruses, malware, and other malicious threats.",
         "official": false,
         "primary_pkg": "clamav",
@@ -93,7 +93,7 @@
     "deluge-pip": {
         "MANIFEST": "deluge-pip.json",
         "description": "Deluge is Python-based Bittorent client.",
-        "icon": "https://icons.freenas.org/community-icons/deluge.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/deluge.png",
         "name": "Deluge",
         "official": false,
         "primary_pkg": ""
@@ -101,7 +101,7 @@
     "dnsmasq": {
         "MANIFEST": "dnsmasq.json",
         "description": "Network infrastructure management for small networks: DNS, DHCP, router advertisement, and network boot.",
-        "icon": "https://icons.freenas.org/community-icons/dnsmasq.svg",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/dnsmasq.svg",
         "name": "Dnsmasq",
         "official": false,
         "primary_pkg": "dnsmasq"
@@ -109,7 +109,7 @@
     "drupal8": {
         "MANIFEST": "drupal8.json",
         "description": "Drupal is an open source platform for building amazing digital experiences.",
-        "icon": "https://icons.freenas.org/community-icons/drupal.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/drupal.png",
         "name": "Drupal8",
         "official": false,
         "primary_pkg": "drupal8"
@@ -119,14 +119,14 @@
         "name": "Duplicati",
         "description": "Duplicati 2.0 Store securely encrypted backups on cloud storage services!",
         "official": false,
-        "icon": "https://icons.freenas.org/community-icons/duplicati.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/duplicati.png",
         "primary_pkg": "",
         "category": "backup"
     },
     "emby": {
         "MANIFEST": "emby.json",
         "name": "Emby Server - Beta",
-        "icon": "https://icons.freenas.org/community-icons/emby.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/emby.png",
         "description": "Beta branch of Emby, the home media server to organize, play, and stream audio and video to a variety of devices!",
         "official": false,
         "primary_pkg": "emby-server-devel",
@@ -136,7 +136,7 @@
     "emby-server-stable": {
         "MANIFEST": "emby-server-stable.json",
         "name": "Emby Server - Stable",
-        "icon": "https://icons.freenas.org/community-icons/emby-server-png-128.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/emby-server-png-128.png",
         "primary_pkg": "emby-server",
         "description": "Stable branch of Emby, which brings together your personal videos, music, photos, and live television!",
         "official": false,
@@ -146,7 +146,7 @@
     "famp": {
         "MANIFEST": "famp.json",
         "description": "FAMP (FreeBSD, Apache, MySQL and PHP) web server",
-        "icon": "https://icons.freenas.org/community-icons/famp.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/famp.png",
         "name": "FAMP",
         "official": false,
         "primary_pkg": null
@@ -154,7 +154,7 @@
     "FlareSolverr": {
         "MANIFEST": "flaresolverr.json",
         "description": "FlareSolverr is a proxy server to bypass Cloudflare and DDoS-GUARD protection", 
-        "icon": "https://icons.freenas.org/community-icons/flaresolverr.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/flaresolverr.png",
         "name": "FlareSolverr",
         "official": false,
         "primary_pkg": null
@@ -162,7 +162,7 @@
     "gitea": {
         "MANIFEST": "gitea.json",
         "name": "Gitea",
-        "icon": "https://icons.freenas.org/community-icons/gitea.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/gitea.png",
         "description": "Gitea is a community managed lightweight code hosting solution written in Go.",
         "official": false,
         "primary_pkg": "gitea"
@@ -170,7 +170,7 @@
     "gitlab": {
         "MANIFEST": "gitlab.json",
         "name": "GitLab",
-        "icon": "https://icons.freenas.org/community-icons/gitlab.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/gitlab.png",
         "description": "Gitlab CE - Git and CI platform to manage development projects",
         "official": false,
         "primary_pkg": "gitlab-ce"
@@ -178,7 +178,7 @@
     "grafana": {
         "MANIFEST": "grafana.json",
         "description": "Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data driven culture.",
-        "icon": "https://icons.freenas.org/community-icons/grafana.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/grafana.png",
         "name": "Grafana (with InfluxDB)",
         "official": false,
         "primary_pkg": "grafana8"
@@ -186,7 +186,7 @@
     "graylog": {
         "MANIFEST": "graylog.json",
         "description": "Seamless log data collection, faster analysis, and the answers you need when you need them.",
-        "icon": "https://icons.freenas.org/community-icons/graylog.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/graylog.png",
         "name": "Graylog",
         "official": false,
         "primary_pkg": "graylog",
@@ -195,7 +195,7 @@
     "guacamole": {
         "MANIFEST": "guacamole.json",
         "description": "Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.",
-        "icon": "https://icons.freenas.org/community-icons/guacamole.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/guacamole.png",
         "name": "Guacamole",
         "official": false,
         "primary_pkg": "guacamole-client",
@@ -204,7 +204,7 @@
     "heimdall-dashboard": {
         "MANIFEST": "heimdall-dashboard.json",
         "description": "Heimdall Application Dashboard is an elegant solution to organize all your web applications and links onto a single page website.",
-        "icon": "https://icons.freenas.org/community-icons/heimdall-dashboard.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/heimdall-dashboard.png",
         "name": "Heimdall",
         "official": false,
         "primary_pkg": null
@@ -212,7 +212,7 @@
     "homebridge": {
         "MANIFEST": "homebridge.json",
         "description": "Lightweight iOS HomeKit API emulator. Enables adding unsupported devices to HomeKit.",
-        "icon": "https://icons.freenas.org/community-icons/homebridge.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/homebridge.png",
         "name": "Homebridge",
         "official": false,
         "primary_pkg": null
@@ -220,7 +220,7 @@
     "hoobs": {
         "MANIFEST": "hoobs.json",
         "description": "HOOBS a Homebridge stack with a interface that simplifies configuration and installing plugins. This adds a process wrapper for Homebridge. It also adds an API that can be used as an endpoint for an application.",
-        "icon": "https://icons.freenas.org/community-icons/hoobs.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/hoobs.png",
         "name": "HOOBS",
         "primary_pkg": null,
         "official": false
@@ -228,7 +228,7 @@
     "i2p": {
         "MANIFEST": "i2p.json",
         "name": "I2P",
-        "icon": "https://icons.freenas.org/community-icons/i2p.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/i2p.png",
         "description": "The Invisible Internet Project (I2P) is an anonymous network layer (implemented as a Mix Network) that allows for censorship-resistant, peer to peer communication.",
         "official": false,
         "primary_pkg": "i2p"
@@ -238,7 +238,7 @@
         "name": "Iconik",
         "description": "Streamlines media asset management by making local and cloud-based assets discoverable from a single interface.",
         "official": true,
-        "icon": "https://raw.githubusercontent.com/freenas/iocage-ix-plugins/master/icons/iconik.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/iconik.png",
         "primary_pkg": "iconik_storage_gateway",
         "category": "collaboration",
         "maintainer": "iXsystems <dev@ixsystems.com>",
@@ -247,7 +247,7 @@
     "irssi": {
         "MANIFEST": "irssi.json",
         "description": "Modular IRC client using a CLI interface.",
-        "icon": "https://icons.freenas.org/community-icons/irssi.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/irssi.png",
         "name": "irssi",
         "official": false,
         "primary_pkg": "irssi"
@@ -255,7 +255,7 @@
     "jackett": {
         "MANIFEST": "jackett.json",
         "description": "API Support for your favorite torrent trackers",
-        "icon": "https://icons.freenas.org/community-icons/jackett.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/jackett.png",
         "name": "Jackett",
         "official": false,
         "primary_pkg": "jackett"
@@ -263,7 +263,7 @@
     "jdownloader": {
         "MANIFEST": "jdownloader.json",
         "description": "JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. Users can start, stop or pause downloads, set bandwith limitations, auto-extract archives and much more. It's an easy-to-extend framework that can save hours of your valuable time every day!",
-        "icon": "https://icons.freenas.org/community-icons/jdownloader.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/jdownloader.png",
         "name": "JDownloader",
         "official": false,
         "primary_pkg": null
@@ -271,7 +271,7 @@
     "jellyfin": {
         "MANIFEST": "jellyfin.json",
         "description": "Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media. It is an alternative to the proprietary Emby and Plex, to provide media from a dedicated server to end-user devices via multiple apps.",
-        "icon": "https://icons.freenas.org/community-icons/jellyfin.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/jellyfin.png",
         "name": "Jellyfin",
         "official": false,
         "primary_pkg": null
@@ -279,7 +279,7 @@
     "jenkins": {
         "MANIFEST": "jenkins.json",
         "name": "Jenkins",
-        "icon": "https://icons.freenas.org/community-icons/jenkins.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/jenkins.png",
         "description": "Open source build automation software.",
         "official": false,
         "primary_pkg": "jenkins",
@@ -289,7 +289,7 @@
     "jenkins-lts": {
         "MANIFEST": "jenkins-lts.json",
         "name": "Jenkins (LTS)",
-        "icon": "https://icons.freenas.org/community-icons/jenkins.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/jenkins.png",
         "description": "Open source build automation software. (Long Term Support Version)",
         "official": false,
         "primary_pkg": "jenkins-lts",
@@ -299,7 +299,7 @@
     "lidarr": {
         "MANIFEST": "lidarr.json",
         "description": "Fork of Sonarr. Automatically download music in the style of Couchpotato.",
-        "icon": "https://raw.githubusercontent.com/lidarr/Lidarr/develop/Logo/128.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/128.png",
         "name": "Lidarr",
         "official": false,
         "primary_pkg": "lidarr"
@@ -307,7 +307,7 @@
     "logitechmediaserver": {
         "MANIFEST": "logitechmediaserver.json",
         "description": "Logitech Media Server (formerly SlimServer, SqueezeCenter and Squeezebox Server) is a streaming audio server supported by Logitech (formerly Slim Devices).",
-        "icon": "https://github.com/ix-plugin-hub/iocage-plugin-index/raw/master/icons/logitechmediaserver.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/logitechmediaserver.png",
         "name": "Logitech Media Server",
         "official": false,
         "primary_pkg": null,
@@ -317,7 +317,7 @@
     "madsonic": {
         "MANIFEST": "madsonic.json",
         "description": "Open source media streaming software and music player.",
-        "icon": "https://icons.freenas.org/community-icons/madsonic.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/madsonic.png",
         "name": "MadSonic",
         "official": false,
         "primary_pkg": null
@@ -326,7 +326,7 @@
         "MANIFEST": "mariadb.json",
         "name": "MariaDB Server",
         "description": "The open source relational database. No additional services included - KISS!",
-        "icon": "https://icons.freenas.org/community-icons/mariadb.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/mariadb.png",
         "primary_pkg": "mariadb105-server",
         "official": false,
         "category": "server",
@@ -335,7 +335,7 @@
     "minio": {
         "MANIFEST": "minio.json",
         "name": "Minio",
-        "icon": "https://www.trueos.org/iocage-icons/minio.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/minio.png",
         "description": "High-performance object (S3) storage suite.",
         "official": true,
         "primary_pkg": "minio",
@@ -346,7 +346,7 @@
     "monica": {
         "MANIFEST": "monica.json",
         "name": "Monica",
-        "icon": "https://icons.freenas.org/community-icons/monica.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/monica.png",
         "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
         "official": false,
         "primary_pkg": null,
@@ -355,7 +355,7 @@
     "motioneye": {
         "MANIFEST": "motioneye.json",
         "description": "motionEye is a web frontend for the motion daemon, written in Python.",
-        "icon": "https://icons.freenas.org/community-icons/motioneye.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/motioneye.png",
         "name": "MotionEye",
         "official": false,
         "primary_pkg": null
@@ -363,7 +363,7 @@
     "movienight": {
         "MANIFEST": "movienight.json",
         "description": "Single-instance streaming server with chat.",
-        "icon": "https://icons.freenas.org/community-icons/movienight.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/movienight.png",
         "name": "Movie Night",
         "official": false,
         "primary_pkg": null,
@@ -373,7 +373,7 @@
     "n8n": {
         "MANIFEST": "n8n.json",
         "description": "Extendable workflow automation",
-        "icon": "https://icons.freenas.org/community-icons/n8n.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/n8n.png",
         "name": "n8n",
         "official": false,
         "primary_pkg": null,
@@ -383,7 +383,7 @@
     "netdata": {
         "MANIFEST": "netdata.json",
         "description": "Monitor everything in real-time",
-        "icon": "https://icons.freenas.org/community-icons/netdata.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/netdata.png",
         "primary_pkg": "netdata",
         "maintainer": "Kris Moore <kris@ixsystems.com>",
         "name": "Netdata",
@@ -392,7 +392,7 @@
     "nextcloud": {
         "MANIFEST": "nextcloud.json",
         "name": "Nextcloud",
-        "icon": "https://www.trueos.org/iocage-icons/nextcloud.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/nextcloud.png",
         "description": "Suite of client-server software for creating and using file hosting services.",
         "official": true,
         "primary_pkg": "nextcloud-php74",
@@ -403,7 +403,7 @@
     "nexus-oss": {
         "MANIFEST": "nexus-oss.json",
         "name": "NexusOSS",
-        "icon": "https://icons.freenas.org/community-icons/nexus-oss.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/nexus-oss.png",
         "description": "Nexus OSS Repository Manager",
         "maintainer": "Filippe Spolti <filippespolti@gmail.com>",
         "official": false,
@@ -412,7 +412,7 @@
     "nxfilter": {
         "MANIFEST": "nxfilter.json",
         "description": "NxFilter is a light-weight DNS filter.",
-        "icon": "https://icons.freenas.org/community-icons/nxfilter.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/nxfilter.png",
         "primary_pkg": null,
         "name": "NxFilter",
         "official": false,
@@ -424,13 +424,13 @@
         "name": "NZBGet",
         "primary_pkg": null,
         "description": "The most efficient usenet downloader.",
-        "icon": "https://icons.freenas.org/community-icons/nzbget.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/nzbget.png",
         "official": false
     },
     "openvpn": {
         "MANIFEST": "openvpn.json",
         "description": "Virtual private network software to create secure point-to-point connections.",
-        "icon": "https://icons.freenas.org/community-icons/openvpn.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/openvpn.png",
         "name": "OpenVPN Server",
         "official": false,
         "primary_pkg": "openvpn"
@@ -438,7 +438,7 @@
     "openspeedtest-server": {
         "MANIFEST": "openspeedtest-server.json",
         "description": "HTML5 Network Speed Test Apllication by OpenSpeedTest.",
-        "icon": "https://icons.freenas.org/community-icons/openspeedtest.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/openspeedtest.png",
         "name": "OpenSpeedTest",
         "official": false,
         "primary_pkg": null
@@ -446,7 +446,7 @@
     "paperless-ngx": {
         "MANIFEST": "paperless-ngx.json",
         "description": "Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive.",
-        "icon": "https://icons.freenas.org/community-icons/paperless-ngx.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/paperless-ngx.png",
         "name": "Paperless-ngx",
         "official": false,
         "primary_pkg": null,
@@ -455,7 +455,7 @@
     "photoprism": {
         "MANIFEST": "photoprism.json",
         "description": "PhotoPrism® is an AI-Powered Photos App for the Decentralized Web. It makes use of the latest technologies to tag and find pictures automatically without getting in your way.",
-        "icon": "https://icons.freenas.org/community-icons/photoprism.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/photoprism.png",
         "name": "photoprism",
         "official": false,
         "primary_pkg": null
@@ -463,7 +463,7 @@
     "photoview": {
         "MANIFEST": "photoview.json",
         "description": "Photoview is a simple and user-friendly photo gallery that's made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high-resolution photos.",
-        "icon": "https://icons.freenas.org/community-icons/photoview.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/photoview.png",
         "name": "photoview",
         "official": false,
         "primary_pkg": null
@@ -471,7 +471,7 @@
     "piwigo": {
         "MANIFEST": "piwigo.json",
         "description": "Piwigo is open source photo gallery software for the web. Designed for organisations, teams and individuals.",
-        "icon": "https://icons.freenas.org/community-icons/piwigo.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/piwigo.png",
         "name": "Piwigo Gallery",
         "official": false,
         "primary_pkg": null
@@ -479,7 +479,7 @@
     "plexmediaserver": {
         "MANIFEST": "plexmediaserver.json",
         "name": "Plex Media Server",
-        "icon": "https://www.trueos.org/iocage-icons/plex.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/plex.png",
         "description": "Media center software to easily manage and stream digital media.",
         "official": true,
         "primary_pkg": "plexmediaserver",
@@ -490,7 +490,7 @@
     "plexmediaserver-plexpass": {
         "MANIFEST": "plexmediaserver-plexpass.json",
         "name": "Plex Media Server (Beta)",
-        "icon": "https://www.trueos.org/iocage-icons/plex.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/plex.png",
         "description": "Media center software to easily manage and stream digital media. (Requires Plex Pass Subscription)",
         "official": true,
         "primary_pkg": "plexmediaserver-plexpass",
@@ -501,7 +501,7 @@
     "privatebin": {
         "MANIFEST": "privatebin.json",
         "description": "PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data.",
-        "icon": "https://icons.freenas.org/community-icons/privatebin.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/privatebin.png",
         "name": "PrivateBin",
         "official": false,
         "primary_pkg": "privatebin"
@@ -509,7 +509,7 @@
     "prowlarr": {
         "MANIFEST": "prowlarr.json",
         "description": "Indexer for torrent and usenet trackers.",
-        "icon": "https://icons.freenas.org/community-icons/prowlarr.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/prowlarr.png",
         "name": "Prowlarr",
         "official": false,
         "primary_pkg": "prowlarr"
@@ -517,7 +517,7 @@
     "qbittorrent": {
         "MANIFEST": "qbittorrent.json",
         "name": "qbittorrent",
-        "icon": "https://icons.freenas.org/community-icons/qbittorrent.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/qbittorrent.png",
         "description": "Open source Bittorent client written in C++ and QT.",
         "official": false,
         "primary_pkg": "qbittorrent-nox",
@@ -527,7 +527,7 @@
     "quasselcore": {
         "MANIFEST": "quasselcore.json",
         "description": "Headless IRC Client that supports 24/7 connectivity. Quassel Client can be attached.",
-        "icon": "https://icons.freenas.org/community-icons/quasselcore.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/quasselcore.png",
         "name": "Quasselcore",
         "official": false,
         "primary_pkg": "quassel-core"
@@ -535,7 +535,7 @@
     "rabbitmq": {
         "MANIFEST": "rabbitmq.json",
         "name": "rabbitmq",
-        "icon": "https://icons.freenas.org/community-icons/rabbitmq.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/rabbitmq.png",
         "description": "RabbitMQ is a popular open source message broker.",
         "official": false,
         "primary_pkg": "rabbitmq",
@@ -545,7 +545,7 @@
     "radarr": {
         "MANIFEST": "radarr.json",
         "name": "radarr",
-        "icon": "https://icons.freenas.org/community-icons/radarr.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/radarr.png",
         "description": "Fork of Sonarr. Automatically download movies in the style of Couchpotato.",
         "official": false,
         "primary_pkg": "radarr",
@@ -555,7 +555,7 @@
     "redis": {
         "MANIFEST": "redis.json",
         "name": "Redis",
-        "icon": "https://icons.freenas.org/community-icons/redis.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/redis.png",
         "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams.",
         "official": false,
         "primary_pkg": "null",
@@ -565,7 +565,7 @@
     "readarr": {
         "MANIFEST": "readarr.json",
         "name": "readarr",
-        "icon": "https://icons.freenas.org/community-icons/readarr.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/readarr.png",
         "description": "Sonarr for Ebooks. Automatically download books in the style of Couchpotato.",
         "official": false,
         "primary_pkg": "readarr",
@@ -575,7 +575,7 @@
     "rslsync": {
         "MANIFEST": "rslsync.json",
         "name": "rslsync",
-        "icon": "https://icons.freenas.org/community-icons/rslsync.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/rslsync.png",
         "description": "Resilient, fast and scalable file sync software for enterprises and individuals.",
         "official": false,
         "primary_pkg": "null",
@@ -585,7 +585,7 @@
     "rtorrent-flood": {
         "MANIFEST": "rtorrent-flood.json",
         "description": "rTorrent with Flood web interface (optionally restricted to OpenVPN).",
-        "icon": "https://icons.freenas.org/community-icons/rtorrent-flood.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/rtorrent-flood.png",
         "name": "rtorrent-flood",
         "official": false,
         "primary_pkg": "rtorrent"
@@ -593,7 +593,7 @@
     "sabnzbd": {
         "MANIFEST": "sabnzbd.json",
         "description": "Sabznbd is a newsgroup reader.",
-        "icon": "https://icons.freenas.org/community-icons/sabnzbd.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/sabnzbd.png",
         "name": "Sabnzbd",
         "official": false,
         "primary_pkg": "sabnzbdplus"
@@ -601,7 +601,7 @@
     "sickchill": {
         "MANIFEST": "sickchill.json",
         "description": "Automatic video library manager for TV Shows.",
-        "icon": "https://icons.freenas.org/community-icons/sickchill.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/sickchill.png",
         "name": "SickChill",
         "official": false,
         "primary_pkg": null
@@ -609,7 +609,7 @@
     "sonarr": {
         "MANIFEST": "sonarr.json",
         "name": "Sonarr",
-        "icon": "https://icons.freenas.org/community-icons/sonarr.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/sonarr.png",
         "description": "Multi-platform app to search, download, and manage TV shows.",
         "official": false,
         "primary_pkg": "sonarr",
@@ -619,7 +619,7 @@
     "syncthing": {
         "MANIFEST": "syncthing.json",
         "name": "Syncthing",
-        "icon": "https://www.trueos.org/iocage-icons/syncthing.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/syncthing.png",
         "description": "Open source, peer-to-peer file synchronization application available for many operating systems.",
         "official": true,
         "primary_pkg": "syncthing",
@@ -630,7 +630,7 @@
     "tarsnap": {
         "MANIFEST": "tarsnap.json",
         "name": "Tarsnap",
-        "icon": "https://www.trueos.org/iocage-icons/tarsnap.png",
+        "icon:": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/tarsnap.png",
         "description": "Secure online backup service for UNIX-like operating systems.",
         "official": true,
         "primary_pkg": "tarsnap",
@@ -641,7 +641,7 @@
     "tautulli": {
         "MANIFEST": "tautulli.json",
         "name": "Tautulli",
-        "icon": "https://icons.freenas.org/community-icons/tautulli.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/tautulli.png",
         "description": "Monitors analytics and notifications for Plex Media Server. (formerly known as PlexPy)",
         "official": false,
         "primary_pkg": null,
@@ -652,14 +652,14 @@
         "MANIFEST": "torr-server.json",
         "name": "TorrServer",
         "primary_pkg": "",
-        "icon": "https://icons.freenas.org/community-icons/torr-server.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/torr-server.png",
         "description": "TorrServer",
         "official": false
     },
     "transmission": {
         "MANIFEST": "transmission.json",
         "name": "Transmission",
-        "icon": "https://icons.freenas.org/community-icons/transmission.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/transmission.png",
         "description": "Fast and lightweight BitTorrent client.",
         "official": false,
         "primary_pkg": "transmission-daemon",
@@ -669,7 +669,7 @@
     "unificontroller": {
         "MANIFEST": "unificontroller.json",
         "description": "Software-Defined Networking platform that provides an end-to-end system of network devices across different locations.",
-        "icon": "https://icons.freenas.org/community-icons/unificontroller.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/unificontroller.png",
         "name": "unificontroller",
         "official": false,
         "primary_pkg": "unifi5"
@@ -677,7 +677,7 @@
     "urbackup": {
         "MANIFEST": "urbackup.json",
         "name": "UrBackup",
-        "icon": "https://icons.freenas.org/community-icons/urbackup.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/urbackup.png",
         "description": "UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.",
         "official": false,
         "primary_pkg": "urbackup-server",
@@ -687,7 +687,7 @@
     "vault": {
         "MANIFEST": "vault.json",
         "name": "vault",
-        "icon": "https://icons.freenas.org/community-icons/vault.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/vault.png",
         "description": "Manage secrets and protect sensitive data.",
         "official": false,
         "primary_pkg": "vault",
@@ -697,7 +697,7 @@
     "weechat": {
         "MANIFEST": "weechat.json",
         "description": "Fast and light IRC client.",
-        "icon": "https://icons.freenas.org/community-icons/weechat.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/weechat.png",
         "name": "weechat",
         "official": false,
         "primary_pkg": "weechat"
@@ -705,7 +705,7 @@
     "xmrig": {
         "MANIFEST": "xmrig.json",
         "description": "High performance Monero (XMR) CPU miner written in C++.",
-        "icon": "https://icons.freenas.org/community-icons/xmrig.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/xmrig.png",
         "name": "XMRig",
         "official": false,
         "primary_pkg": "xmrig"
@@ -713,7 +713,7 @@
     "zabbixserver": {
         "MANIFEST": "zabbixserver.json",
         "name": "Zabbix Server",
-        "icon": "https://icons.freenas.org/community-icons/zabbix.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/zabbix.png",
         "description": "Zabbix is an open-source monitoring software tool for diverse IT components, including networks, servers, virtual machines (VMs) and cloud services",
         "official": false,
         "primary_pkg": "zabbix6-server",
@@ -723,7 +723,7 @@
     "zoneminder": {
         "MANIFEST": "zoneminder.json",
         "name": "Zoneminder",
-        "icon": "https://icons.freenas.org/community-icons/zoneminder.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/zoneminder.png",
         "description": "Closed-circuit television management application which supports IP, USB, and analog cameras.",
         "official": false,
         "primary_pkg": "zoneminder",
@@ -733,7 +733,7 @@
     "zrepl": {
         "MANIFEST": "zrepl.json",
         "description": "zrepl is a one-stop, integrated solution for ZFS replication.",
-        "icon": "https://icons.freenas.org/community-icons/zrepl.png",
+        "icon": "https://raw.githubusercontent.com/elovelan/iocage-plugin-index/testing/icons/zrepl.png",
         "name": "zrepl",
         "official": false,
         "primary_pkg": "zrepl"
