@@ -1,6 +1,6 @@
 {
     "name": "asigra",
-    "release": "13.2-RELEASE",
+    "release": "13.5-RELEASE",
     "artifact": "https://github.com/ix-plugin-hub/iocage-plugin-asigra.git",
     "pkgs": [
         "postgresql13-server",
